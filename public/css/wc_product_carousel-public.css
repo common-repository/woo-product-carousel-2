@@ -1,0 +1,14 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+.sfs_title{ text-transform:uppercase; font-size:16px; width:80%; float:left; position:relative; box-sizing:border-box;}
+.sfs_trigger{ width:20%; float:left; position:relative; box-sizing:border-box;}
+.next_prev{ display:block; text-align:right;}
+.next_prev li{ display:inline-block; padding:0px 1px;}
+.next_prev li a{ display:block; border:1px solid #ccc; font-size:15px; padding:5px 15px; color:#000; cursor:pointer;}
+.full{ width:100%; float:left; position:relative;}
+.owl-item .added_to_cart{ display:none !important;}
+.owl-item li{ list-style:none;}
+.owl-item li a,.owl-item li a span{ text-decoration:none !important;}
+{}
+.owl-item .add_to_cart_button{ border:1px solid #ccc; padding:10px 15px; display:block; font-size:12px; text-align:center; color:#000;}
+.owl-item .woocommerce-loop-product__title{ text-decoration:none; color:#000; font-size:15px;}
+.owl-item .price{ color:#FF9900; font-size:17px; text-decoration:none;}
